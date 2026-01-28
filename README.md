@@ -1,4 +1,4 @@
-# TuyaOpen-Community-Projects
+<img width="1893" height="947" alt="image" src="https://github.com/user-attachments/assets/b5c39b82-bcc5-4d5d-871c-f9f97702d34b" /># TuyaOpen-Community-Projects
 
 A curated collection of open source projects under TuyaOpen, dedicated to building a robust AIoT hardware development ecosystem.
 
@@ -9,7 +9,7 @@ A curated collection of open source projects under TuyaOpen, dedicated to buildi
 | Tuya T5 Pocket AI | Portable Handheld Console of AI-Agent Prototyping | AI-Agent, IoT, Open-Hardware | [Repo](https://github.com/tuya/TuyaOpen/tree/master/apps/tuya_t5_pocket) | [TuyaOpen](https://github.com/tuya) | EN/CN | 
 | Tuya T5 Pixel | 32x32 Pixel Art LED NeoPixels | AI-Agent, IoT, Open-Hardware | [Repo](https://github.com/tuya/TuyaOpen/tree/master/apps/tuya_t5_pixel) | [TuyaOpen](https://github.com/tuya) | EN/CN |
 | Tuya T5 e-Paper Album | A colorful ink photo album based on TuyaOpen | AI-Agent, IoT, Open-Hardware, E-INK, Local-Server | [e-Paper-Album](https://github.com/HonestQiao/e-Paper-Album/) | [HonestQiao](https://github.com/HonestQiao) | CN |
-
+| Tuya Ink Screen Display | Your ink screen project description | TuyaOS, E-ink, Embedded, C/C++ | [Repo](https://github.com/baijiahao522/-tuya-ink-screen-demo) | baijiahao522 | CN |
 
 ## Contribution Guidelines
 
